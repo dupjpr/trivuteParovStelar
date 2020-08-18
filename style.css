@@ -1,10 +1,11 @@
 body{
     font-family: 'Playfair Display', serif;
     font-size: 17px;
-    background-color:hsl(240, 20%, 95%);
-    
+    background-image: url("https://www.ooom.com/digital/wp-content/uploads/2019/04/parov-stelar-ooom-magazine-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
-
 
 #title, h2, h3, h4, h5{
     text-transform: uppercase;
@@ -23,13 +24,14 @@ body{
     display: block;
     margin: auto;
     width: 90%;  
-    
-    
+
 }
 
 #image{
     display: block;
     margin: auto;
+    max-width: 100%;
+    height: auto;
     -webkit-box-shadow: 0px 3px 7px 0px rgba(48, 50, 50, 0.59);
     -moz-box-shadow:    0px 3px 7px 0px rgba(48, 50, 50, 0.59);
     box-shadow:         0px 3px 7px 0px rgba(48, 50, 50, 0.59);
@@ -38,11 +40,10 @@ body{
 #tribute-info{
     margin: auto;
     width: 60%;
-    /* text-align: justify; */
     margin-top: 2%;
-    background-color: whitesmoke; 
+    background-color: rgba(255, 255, 255, 0.664); 
     padding: 0.5%;
-    
+    border-radius: 1%;
 }
 
 .disco{
@@ -62,6 +63,8 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    max-width: 100%;
+    height: auto;
     width: 150px;
     height: 150px;
     border-radius: 2%;
@@ -91,8 +94,8 @@ body{
     width: 60%;
     margin: auto;
     margin-top: 2%;
+   
 }
-
 
 .footer{
    position: static;
@@ -101,9 +104,7 @@ body{
    align-items: center;
    justify-content: center;
    margin-top: 3%;
-   background-color: whitesmoke; 
    height: 85px;
-   
 }
 
 .logo{
