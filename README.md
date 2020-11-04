@@ -1,6 +1,8 @@
 # Tribute Website Project :trumpet:
 
-The website is available in the next link: https://dupjpr.github.io/trivuteParovStelar/
+The website is available in the next link:
+
+https://dupjpr.github.io/trivuteParovStelar/
 
 ## Description :page_facing_up:
 
