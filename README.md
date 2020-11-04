@@ -2,11 +2,12 @@
 
 The website is available in the next link: https://dupjpr.github.io/trivuteParovStelar/
 
-Description 
+## Description :page_facing_up:
 
 This a static website of tribute to Parov Stelar band. Here there are general information about the band and his record work.
 
 ## Technologies
+
 * HTML.
 * CSS.
 
